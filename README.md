@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepmanimala
 - 👀 I’m interested in experiments
-- 🌱 I’m currently learning neural network
+- 🌱 I’m currently learning neural networks
 - 📫 Reach me on 𝕏 @sandeepmanimala
 
 <!---
